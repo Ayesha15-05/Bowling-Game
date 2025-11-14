@@ -49,7 +49,26 @@ Key Features
 
 
 Uses structures to manage data for players, frames, and scores.
+
+
+
+
 Includes a strike and spare logic similar to real bowling rules.
+
+
+
+
+
 Calculates scores dynamically using a bonus score function.
+
+
+
+
+
 Adds a bit of realism by using the sine of the angle to decide how many pins fall.
+
+
+
+
+
 Displays a nice ASCII bowling lane and pins to make it fun to watch.
