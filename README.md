@@ -37,7 +37,7 @@ At the end, a scoreboard is displayed showing each player’s frame-by-frame res
 
 
 
-Key Features
+Key Features:
 
 
 
